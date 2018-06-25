@@ -1,0 +1,21 @@
+.box{
+    background: white;
+    padding: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+.active-box{
+    background: black;
+    color: white;s
+}
+.box:hover {
+    background: grey;
+}
+
+hr{
+    border: 3px solid rgb(164, 172, 164);
+}
+.card-deck:hover{
+    opacity: 0.7;
+
+}
